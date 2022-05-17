@@ -6,7 +6,7 @@ Code used in the paper
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cook, Jonathan (forthcoming): "Sample-selection-adjusted random forests," _International Journal of Data Science and Analytics_. 
 
-is available here. Please see this paper for more details and cite this paper when using the Sample-selection-adjusted random forests (SARF) procedure.
+is available here. Please see this paper for more details and cite this paper when using the sample-selection-adjusted random forests (SARF) procedure.
 
 A predictive model that is trained with non-randomly selected samples can offer biased predictions for the population. Cook (forthcoming) discusses when non-random selection is a problem. For the applications in which it is a problem, Cook presents a procedure for adjusting the predictions of random forest to account for non-random sampling of the training data. This adjustment results in more accurate predictions for the population.
 
