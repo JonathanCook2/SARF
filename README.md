@@ -4,7 +4,7 @@
 
 Code used in the paper 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cook, Jonathan (forthcoming): "Sample-selection-adjusted random forests," _International Journal of Data Science and Analytics_. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cook, Jonathan (forthcoming): "Sample-selection-adjusted random forests," _International Journal of Data Science and Analytics_. [http://doi.org//10.1007/s41060-022-00337-w](http://doi.org//10.1007/s41060-022-00337-w) 
 
 is available here. Please see this paper for more details and cite this paper when using the sample-selection-adjusted random forests (SARF) procedure.
 
@@ -16,6 +16,6 @@ The file "Monte Carlo Newey 2009.r" provides a Monte Carlo experiment that compa
 
 ## References
 
-Cook, Jonathan (forthcoming): "Sample-selection-adjusted random forests," _International Journal of Data Science and Analytics_.
+Cook, Jonathan (forthcoming): "Sample-selection-adjusted random forests," _International Journal of Data Science and Analytics_. [http://doi.org//10.1007/s41060-022-00337-w](http://doi.org//10.1007/s41060-022-00337-w) 
 
-Newey, Whitney K. (2009): "Two‐step series estimation of sample selection models. _The Econometrics Journal_, 12, S217-S229.
+Newey, Whitney K. (2009): "Two‐step series estimation of sample selection models," _The Econometrics Journal_, 12, S217-S229. [https://doi.org/10.1111/j.1368-423X.2008.00263.x](https://doi.org/10.1111/j.1368-423X.2008.00263.x)
